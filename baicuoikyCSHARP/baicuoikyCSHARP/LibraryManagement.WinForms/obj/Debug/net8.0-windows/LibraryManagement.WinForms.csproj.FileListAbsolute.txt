@@ -1,0 +1,60 @@
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.exe
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.deps.json
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.runtimeconfig.json
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\bin\Debug\net8.0-windows\Npgsql.dll
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.AssemblyReference.cache
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.AccountDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.BookDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.CategoryDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.ChangePasswordDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.LoanCreateDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.LoanEditDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.LoginForm.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.MainForm.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.ReaderDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.ReturnConditionDialog.resources
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.GenerateResource.cache
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfoInputs.cache
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfo.cs
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.CoreCompileInputs.cache
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryM.6D0D6DFA.Up2Date
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\refint\LibraryManagement.WinForms.dll
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.genruntimeconfig.cache
+D:\baicuoikyCSHARP_staff_delete_reader\LibraryManagement.WinForms\obj\Debug\net8.0-windows\ref\LibraryManagement.WinForms.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.exe
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.deps.json
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.runtimeconfig.json
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\bin\Debug\net8.0-windows\Npgsql.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.AssemblyReference.cache
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.AccountDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.BookDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.CategoryDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.ChangePasswordDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.LoanCreateDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.LoanEditDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.LoginForm.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.MainForm.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.ReaderDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.ReturnConditionDialog.resources
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.GenerateResource.cache
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfoInputs.cache
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfo.cs
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.CoreCompileInputs.cache
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryM.6D0D6DFA.Up2Date
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\refint\LibraryManagement.WinForms.dll
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\LibraryManagement.WinForms.genruntimeconfig.cache
+D:\CMC uni\3_Kỳ Xuân\Lập trình C#\baicuoikyCSHARP\baicuoikyCSHARP\LibraryManagement.WinForms\obj\Debug\net8.0-windows\ref\LibraryManagement.WinForms.dll
